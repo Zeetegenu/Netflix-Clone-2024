@@ -1,17 +1,14 @@
 import './App.css'
+import Home from './pages/Home/Home';
 
-function App() {
-  // const [count, setCount] = useState(0)
-
+function App()  {
   return (
-    <>
-      <div>
-        <h1>Hello</h1>
+    
+      <div className='App'>
+        <Home/>
       </div>
-      <p className="read-the-docs">
-        {/* Click on the Vite and React logos to learn more */}
-      </p>
-    </>
+      
+    
   )
 }
 
