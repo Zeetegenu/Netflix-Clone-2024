@@ -41,3 +41,6 @@ import AccountBoxIcon from '@mui/icons-material/AccountBox';
 
 
 export default Header
+// "predeploy": "npm run build",
+    // "deploy": "gh-pages -d dist",
+    // "homepage": "https://Zeetegenu.github.io/Netflx-Clone-2024",
